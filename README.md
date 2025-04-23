@@ -47,4 +47,4 @@ To identify item associations in a transactional dataset and suggest products to
 ![Recommendation](screenshots/recommendation.png)
 
 ### 🔹 Cart Recommendation
-![Cart Recommendation](screenshots/cartrecommenddation.png)
+![Cart Recommendation](screenshots/cartrecommendation.png)
